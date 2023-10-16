@@ -1,0 +1,7 @@
+name: pulumi-aws-example
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi program
+main: ./src/index.ts
+config:
+  aws:region: us-west-1
+  environment: dev

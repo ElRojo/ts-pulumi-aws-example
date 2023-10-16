@@ -1,0 +1,13 @@
+{
+  "printWidth": 100,
+  "trailingComma": "none",
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": ["*.md"],
+      "options": {
+        "tabWidth": 1
+      }
+    }
+  ]
+}

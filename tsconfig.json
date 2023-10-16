@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "outDir": "bin",
+        "target": "es6",
+        "lib": ["es6", "dom"],
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "experimentalDecorators": true,
+        "pretty": true,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitReturns": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "strictPropertyInitialization": false,
+        "forceConsistentCasingInFileNames": true
+    },
+    "files": [
+        "./src/index.ts"
+    ],
+    "strictPropertyInitialization": false
+}
